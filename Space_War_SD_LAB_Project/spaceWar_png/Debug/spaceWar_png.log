@@ -1,0 +1,17 @@
+﻿Build started 2/10/2018 5:02:29 PM.
+     1>Project "C:\Users\Shafayet\Desktop\ssd\doc\final\Final Game\Space_War_SD_LAB_Project\spaceWar_png\spaceWar_png.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\spaceWar_png.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         spaceWar_png.vcxproj -> C:\Users\Shafayet\Desktop\ssd\doc\final\Final Game\Space_War_SD_LAB_Project\Debug\spaceWar_png.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\spaceWar_png.unsuccessfulbuild".
+         Touching "Debug\spaceWar_png.lastbuildstate".
+     1>Done Building Project "C:\Users\Shafayet\Desktop\ssd\doc\final\Final Game\Space_War_SD_LAB_Project\spaceWar_png\spaceWar_png.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.15
